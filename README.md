@@ -23,6 +23,6 @@
 
 <div align="center">
 
-## © 2022 TheTechology - MARIAN DUMITRU & POPA DANIEL,ɪɴᴄ. ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ.
+## © 2022 TheTechology - MARIAN DUMITRU & POPA DANIEL,ɪɴᴄ. ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ. 
 
 </div>
